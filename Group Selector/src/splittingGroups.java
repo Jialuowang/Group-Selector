@@ -37,7 +37,11 @@ private static void organizesArray()
 	{
 		for(int i = 0 ; i < groupSelector.numberOfGroups ; i++)
 			{
-				
+				int groupTracker = numberOfPeople;
+				for(int j = 0 ; j < sizeOfGroup ; j++)
+					{
+						
+					}
 			}
 	}
 
