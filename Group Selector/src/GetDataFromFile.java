@@ -4,6 +4,8 @@ public class GetDataFromFile
 	{
 		Scanner file = new Scanner( new File("roster.txt"));
 		
+		// fix errors by puting it in its own method.
+		
 		ArrayList <Data> studentList = new ArrayList <Data> ( );
 		
 		while(file.hasNext())
