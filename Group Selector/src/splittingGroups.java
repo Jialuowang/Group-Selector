@@ -6,7 +6,7 @@ public class splittingGroups
 		public static int sizeOfGroup = (groupSelector.numberOfGroups) / (numberOfPeople);
 		
 		mixesUpArray();
-		organizesArray();
+		organizesArray();	
 		
 		
 	}
@@ -44,5 +44,4 @@ private static void organizesArray()
 					}
 			}
 	}
-
 
