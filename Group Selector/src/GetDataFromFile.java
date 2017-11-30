@@ -12,5 +12,5 @@ public class GetDataFromFile
 				int gPA = Integer.parseInt(person[2]);
 				studentList.add(new Data(gPA , person[1] , person[0]));
 			}
-		
+		// test change
 	}
